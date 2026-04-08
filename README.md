@@ -1,16 +1,47 @@
-<h1 align="center">Heya 👋, I'm Mohammed Minhajul Abdin</h1>
-<h3 align="center">Curious frontend developer</h3>
+<img width="3780" height="1890" alt="Ingoude (1)" src="https://github.com/user-attachments/assets/36f1eb10-a1ca-4e09-9f45-d3f9a710bc5c" />
 
-- I’m currently learning **Next.js**
-
-- Reach me **minhajul000abdin@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohammed minhajul abdin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed minhajul abdin" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=4F46E5&center=true&vCenter=true&width=500&lines=Hello+👋;Welcome+to+my+GitHub;I+love+building+things+🏗️" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhajul-abdin&show_icons=true&locale=en&layout=compact" alt="minhajul-abdin" /></p>
+## ⚡ About Me
+- 💡 Curious and always learning  
+- 🎨 Love clean UI & simple design  
+- 🔥 Goal: Become a Full Stack Developer 
+--- 
+
+🚀 Beginner Frontend Developer  
+💻 Learning React & Next.js  
+🌱 Exploring Backend Development  
+🏗️ Building projects & improving every day  
+---
+
+## 🛠️ Skills
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=next.js)
+
+---
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://github.com/Minhajul-Abdin" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohammed-minhajul/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+Email: minhajul000abdin@gmail.com
+
+## My Daily Life
+```js
+while (!success) {
+  tryAgain();
+  learn();
+  improve();
+}
